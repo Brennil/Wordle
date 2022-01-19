@@ -9,3 +9,5 @@ E.g. If I guess "world" and get the result of "black, green, yellow, yellow, bla
 `play('world','bgyyb')`
 
 When you have selected a word from the resulting list (sorted from highest frequency to lowest) and played it for the next result, you can call the `play()` function again.
+
+Credits: Inspired by [this post](http://estebanmoro.org/post/2022-01-10-wordle/)
